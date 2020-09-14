@@ -1,0 +1,14 @@
+C:\Users\Sara\source\repos\C968_Project_1\C968_Project_1\bin\Debug\C968_Project_1.exe.config
+C:\Users\Sara\source\repos\C968_Project_1\C968_Project_1\bin\Debug\C968_Project_1.exe
+C:\Users\Sara\source\repos\C968_Project_1\C968_Project_1\bin\Debug\C968_Project_1.pdb
+C:\Users\Sara\source\repos\C968_Project_1\C968_Project_1\obj\Debug\C968_Project_1.csprojAssemblyReference.cache
+C:\Users\Sara\source\repos\C968_Project_1\C968_Project_1\obj\Debug\C968_Project_1.Properties.Resources.resources
+C:\Users\Sara\source\repos\C968_Project_1\C968_Project_1\obj\Debug\C968_Project_1.csproj.GenerateResource.cache
+C:\Users\Sara\source\repos\C968_Project_1\C968_Project_1\obj\Debug\C968_Project_1.csproj.CoreCompileInputs.cache
+C:\Users\Sara\source\repos\C968_Project_1\C968_Project_1\obj\Debug\C968_Project_1.exe
+C:\Users\Sara\source\repos\C968_Project_1\C968_Project_1\obj\Debug\C968_Project_1.pdb
+C:\Users\Sara\source\repos\C968_Project_1\C968_Project_1\obj\Debug\C968_Project_1.MainForm.resources
+C:\Users\Sara\source\repos\C968_Project_1\C968_Project_1\obj\Debug\C968_Project_1.AddNewPart.resources
+C:\Users\Sara\source\repos\C968_Project_1\C968_Project_1\obj\Debug\C968_Project_1.ModifyPartScreen.resources
+C:\Users\Sara\source\repos\C968_Project_1\C968_Project_1\obj\Debug\C968_Project_1.AddNewProductScreen.resources
+C:\Users\Sara\source\repos\C968_Project_1\C968_Project_1\obj\Debug\C968_Project_1.ModifyProductsScreen.resources
